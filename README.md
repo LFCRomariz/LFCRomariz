@@ -13,6 +13,8 @@
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=lfcromariz&show_icons=true&theme=highcontrast)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfcromariz)](https://github.com/lfcromariz/github-readme-stats)
+
 ## Some of my Portfolio:
 
 - [Ping Pong](https://lfcromariz.github.io/Logica-de-programa-ao/)
